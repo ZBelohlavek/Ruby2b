@@ -1,6 +1,6 @@
 # Six Little
 ## **Zach B**
-## **Likwa**
+## **Likes**
 1. Somewhat easy to read at a glance
 2. Its Object oriented nature
 3. With how the methods are set up you can do complex tasks in one line
